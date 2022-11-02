@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2aa157fd-180c-4e37-b994-6856b548054d" name="Changes" comment="Additional initial files added" />
+    <list default="true" id="2aa157fd-180c-4e37-b994-6856b548054d" name="Changes" comment="Additional initial files added">
+      <change afterPath="$PROJECT_DIR$/random_info.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subprograms and info/O8540" beforeDir="false" afterPath="$PROJECT_DIR$/Subprograms and info/O8540" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/in_out.py" beforeDir="false" afterPath="$PROJECT_DIR$/in_out.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/io_try.py" beforeDir="false" afterPath="$PROJECT_DIR$/io_try.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/py_simple_gui.py" beforeDir="false" afterPath="$PROJECT_DIR$/py_simple_gui.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -21,14 +35,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Jordan/Documents/GitHub/enGrave"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Jordan/Documents/GitHub/enGrave&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Jordan\Documents\GitHub\enGrave" />
@@ -36,6 +50,35 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Jordan\Documents\GitHub\enGrave\Subprograms and info" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="io_try" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="enGrave" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/io_try.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.io_try" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -48,6 +91,7 @@
       <workItem from="1667353803091" duration="41000" />
       <workItem from="1667353921942" duration="1000" />
       <workItem from="1667353930592" duration="1175000" />
+      <workItem from="1667386528852" duration="1773000" />
     </task>
     <task id="LOCAL-00001" summary="Additional initial files added">
       <created>1667355008557</created>
@@ -76,5 +120,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Additional initial files added" />
     <option name="LAST_COMMIT_MESSAGE" value="Additional initial files added" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/enGrave$io_try.coverage" NAME="io_try Coverage Results" MODIFIED="1667388212185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

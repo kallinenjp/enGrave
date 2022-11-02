@@ -36,5 +36,5 @@ while True:
     else:
         continue
 
-    print("G65 P8200 {0} D0. R3. F0. Z-3. ({1})".format(e_value, title.upper()))
+    print("G65 P8200 H? {0} D0. R3. F0. Z-3. ({1})".format(e_value, title.upper()))
     print("*" * 80)
