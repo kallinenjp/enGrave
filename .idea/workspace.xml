@@ -1,7 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2aa157fd-180c-4e37-b994-6856b548054d" name="Changes" comment="" />
+    <list default="true" id="2aa157fd-180c-4e37-b994-6856b548054d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Subprograms and info/7001.NC" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Subprograms and info/MACRO TO CHARACTER LIST.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Subprograms and info/Macro to Character List - printable.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Subprograms and info/O8200" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Subprograms and info/O8201" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Subprograms and info/O8202" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Subprograms and info/O8500" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Subprograms and info/O8501" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Subprograms and info/O8502" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Subprograms and info/O8503" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Subprograms and info/O8504" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Subprograms and info/O8505" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Subprograms and info/O8506" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Subprograms and info/O8507" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Subprograms and info/O8508" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Subprograms and info/O8509" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Subprograms and info/O8510" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Subprograms and info/O8511" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Subprograms and info/O8512" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Subprograms and info/O8513" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Subprograms and info/O8514" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Subprograms and info/O8515" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Subprograms and info/O8516" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Subprograms and info/O8517" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Subprograms and info/O8518" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Subprograms and info/O8519" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Subprograms and info/O8520" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Subprograms and info/O8521" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Subprograms and info/O8522" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Subprograms and info/O8523" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Subprograms and info/O8524" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Subprograms and info/O8525" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,18 +44,33 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2GyHFhmB2K0ZqBlyC6svii3EDoY" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Jordan/Documents/GitHub/enGrave"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Jordan\Documents\GitHub\enGrave" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jordan\Documents\GitHub\enGrave\Subprograms and info" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,6 +81,7 @@
       <updated>1667353801718</updated>
       <workItem from="1667353803091" duration="41000" />
       <workItem from="1667353921942" duration="1000" />
+      <workItem from="1667353930592" duration="952000" />
     </task>
     <servers />
   </component>
