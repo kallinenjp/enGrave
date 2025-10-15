@@ -4,16 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2aa157fd-180c-4e37-b994-6856b548054d" name="Changes" comment="Shuffled notes into a note file, removed unnecessary strings from other files">
+    <list default="true" id="2aa157fd-180c-4e37-b994-6856b548054d" name="Changes" comment="io_window.py contains completed project.&#10;Need to delete extra files and junk">
       <change afterPath="$PROJECT_DIR$/testing_space.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/enGrave.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/enGrave.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/in_out.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/io_try.py" beforeDir="false" afterPath="$PROJECT_DIR$/io_try.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/io_window.py" beforeDir="false" afterPath="$PROJECT_DIR$/io_window.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output_g_code.py" beforeDir="false" afterPath="$PROJECT_DIR$/output_g_code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/io_try.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nested_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_g_code.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/py_simple_gui.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/random_info.py" beforeDir="false" afterPath="$PROJECT_DIR$/random_info.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -233,7 +233,7 @@
       <workItem from="1667353930592" duration="1175000" />
       <workItem from="1667386528852" duration="1940000" />
       <workItem from="1760390197647" duration="10911000" />
-      <workItem from="1760480339602" duration="6212000" />
+      <workItem from="1760480339602" duration="6723000" />
     </task>
     <task id="LOCAL-00001" summary="Additional initial files added">
       <created>1667355008557</created>
@@ -249,7 +249,15 @@
       <option name="project" value="LOCAL" />
       <updated>1667388369992</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="io_window.py contains completed project.&#10;Need to delete extra files and junk">
+      <option name="closed" value="true" />
+      <created>1760486686832</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1760486686832</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -269,7 +277,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Additional initial files added" />
     <MESSAGE value="Shuffled notes into a note file, removed unnecessary strings from other files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Shuffled notes into a note file, removed unnecessary strings from other files" />
+    <MESSAGE value="io_window.py contains completed project.&#10;Need to delete extra files and junk" />
+    <option name="LAST_COMMIT_MESSAGE" value="io_window.py contains completed project.&#10;Need to delete extra files and junk" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/enGrave$testing_space.coverage" NAME="testing_space Coverage Results" MODIFIED="1760484162192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
