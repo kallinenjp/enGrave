@@ -10,7 +10,7 @@ outputting to usb if available, AKA check for USB, then Y/N for save to USB
 
 # from unnamed import x_var, y_var TODO: calculate string length and output
 
-from in_out import alpha_numeric
+# from in_out import alpha_numeric
 
 def conversion_van():
     """"""
