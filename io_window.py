@@ -2,8 +2,6 @@
 Main window code, includes input and output stored as variables
 Also includes a button with a command to run the conversion program.
 
-TODO: pass conversion program as a function into the update_output()
-TODO: pass variables out to the conversion function.
 """
 import tkinter as tk
 from tkinter import ttk
